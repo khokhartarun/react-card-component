@@ -1,2 +1,2 @@
 # react-card-component
-Card component by using of react typescript 
+Creating component by using of react typescript 
